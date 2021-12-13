@@ -1,0 +1,48 @@
+#page-title{
+    vertical-align: middle;
+    text-align: center;
+}
+
+#first-container{
+    background-color: rgb(46, 167, 207);
+    height: 50px;
+    border: 1px solid black;
+}
+
+#second-container{
+    background-color: rgb(46, 167, 207);
+    height: 50px;
+    border: 1px solid black;
+}
+
+#third-container{
+    border: 1px solid black;
+    background-color: lightgray;
+    height: 45px;
+    text-align: center;
+}
+#fourth-container{
+    margin-top: auto;
+    background-color: darkblue;
+}
+
+
+#inner-container{
+    background-color: rgb(46, 167, 207);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.text{
+    vertical-align: middle; 
+    text-align: center; 
+    color: white;
+    border: solid black 1px;
+}
+
+.inlines{
+    background-color: orange;
+    color: white;
+    line-height: 50px;
+    
+}
