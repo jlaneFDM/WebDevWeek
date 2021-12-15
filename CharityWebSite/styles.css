@@ -1,0 +1,62 @@
+.photo-component{
+    width: 100%;
+    flex-direction: row;
+    height: 10rem;
+    border: 1px solid black;
+}
+
+.header-component{
+    width: 100%;
+    flex-direction: row;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+                 'Lucida Grande', 'Lucida Sans Unicode', 
+                  Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.text-input-component{
+    width: 98%;
+    flex-direction: row;
+    height: 2rem;
+}
+
+.button-component{
+    width: 100%;
+    height: 2.5rem;
+    margin-top: 1rem;
+}
+
+.save-the-donkeys-component{
+    width: 100%;
+    flex-direction: row;
+    border: 1px solid black;
+    height: 10rem;
+}
+
+.card-container-component{
+    display: flex;
+    flex-direction: row;
+    border: solid black 1px;
+    height: 8rem;
+}
+
+.card-one-component{
+    height: 99%;
+    width: 50%;
+    border: solid rgb(7, 122, 26) 1px;
+    overflow: scroll;
+}
+
+.image-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+
+
